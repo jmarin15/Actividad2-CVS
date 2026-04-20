@@ -1,0 +1,8 @@
+afb7647 Guardamos todo lo rojo
+b6ea8b0 Guardamos todos lo activo
+5fb5d79 Cambio para poder crear Pull Request
+a245b8d se resolvio conflcto
+a8d8d6a Cambios en rama main
+795c05f He cambiado de rama
+b76dad2 Subida de ejercicio1
+c9c8994 Subida inicial de la actividad 2
